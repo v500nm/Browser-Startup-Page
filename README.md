@@ -1,7 +1,4 @@
 ## Browser Startup Page JS
-
- ---
-
  A Customised Startup page for Web Browser
 
  * Custom web app widgets and redirections
