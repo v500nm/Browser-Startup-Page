@@ -9,7 +9,7 @@
 <img src="image/README/1683363172326.png" alt="image" width="500">
  * Custom theme Setting facility
 
-<img src="image/README/1683363181862.png" alt="image" width="500" height="400">
+<img src="image/README/1683363181862.png" alt="image" width="500" height="500">
  ---
  ### How to set Custom Startup page
  * Go to options in chrome browser > go to Settings
