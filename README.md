@@ -2,6 +2,7 @@
  A Customised Startup page for Web Browser
 
  * Custom web app widgets and redirections
+<img src="image/README/1683363163720.png" alt="image" width="500">
 
    ![1683363163720](image/README/1683363163720.png)
  * Custom Search bar with search facility and suggestions
@@ -11,7 +12,7 @@
    ![1683363181862](image/README/1683363181862.png)
  ---
 
- #### How to set Custom Startup page
+ ### How to set Custom Startup page
 
  * Go to options in chrome browser > go to Settings
 
